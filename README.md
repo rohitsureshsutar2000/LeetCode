@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/rohitsureshsutar2000/LeetCode/tree/master/0197-rising-temperature) |
+| [0511-game-play-analysis-i](https://github.com/rohitsureshsutar2000/LeetCode/tree/master/0511-game-play-analysis-i) |
 ## Array
 |  |
 | ------- |
