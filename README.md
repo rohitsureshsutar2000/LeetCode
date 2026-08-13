@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/rohitsureshsutar2000/LeetCode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/rohitsureshsutar2000/LeetCode/tree/master/0178-rank-scores) |
 | [0197-rising-temperature](https://github.com/rohitsureshsutar2000/LeetCode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/rohitsureshsutar2000/LeetCode/tree/master/0511-game-play-analysis-i) |
